@@ -1,0 +1,16 @@
+{
+  "name": "chasqui_api3",
+  "version": "1.0.0",
+  "description": "API to ChaskiReportApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrry Chuquimia (TaXxX)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  }
+}
